@@ -12,6 +12,7 @@ public class App {
 //        Broker broker = new Broker(swan);
 //        broker.work();
 
+
         //动态代理
         Star swan = new Swan();
         //获取代理工厂对象
